@@ -1,2 +1,2 @@
 def new(a):
-    pass
+    return a
